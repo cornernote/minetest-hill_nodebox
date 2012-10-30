@@ -27,10 +27,8 @@ Allows players to craft and place hill-like nodes that are comprised of 32 level
 Crafts
 ----------------------------------
 
-D = Dirt
-
 Hill:
---D
+--D   <-- D = Dirt
 -DD
 DD-
 
