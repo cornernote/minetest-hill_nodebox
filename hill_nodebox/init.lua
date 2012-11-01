@@ -10,7 +10,7 @@ License: GPLv3
 
 
 -- how many square steps to make the hill
-local steps = 32
+local steps = 16
 
 -- build the nodebox
 local nodebox, step = {}, 0
