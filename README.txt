@@ -3,9 +3,6 @@ Hill Nodebox for Minetest
 ----------------------------------
 
 Copyright (c) 2012 cornernote, Brett O'Donnell <cornernote@gmail.com>
-Textures: Copyright (c) 2012 tonyka
-Alt Textures: Copyright (c) 2012 Jordach, Jordan Snelling
-
 Source Code: https://github.com/cornernote/minetest-hill_nodebox
 Home Page: https://sites.google.com/site/cornernote/minetest/hill-nodebox
 
